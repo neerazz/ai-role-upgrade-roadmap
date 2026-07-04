@@ -2,7 +2,7 @@
 
 > A curated map of AI tools, platforms, and frameworks transforming DevOps — graded by maturity, annotated by a practitioner
 
-**Read the article:** [Hashnode (canonical)](https://neerazz.hashnode.dev/the-devops-engineer-s-ai-landscape-aiops-self-healing-and-what-s-actually-production-ready) · [dev.to](https://dev.to/neerazz/the-devops-engineers-ai-landscape-aiops-self-healing-and-whats-actually-production-ready-285c)
+**Read the article:** [Hashnode (canonical)](https://neerazz.hashnode.dev/the-devops-engineer-s-ai-landscape-aiops-self-healing-and-what-s-actually-production-ready) · [dev.to](https://dev.to/neerazz/the-devops-engineers-ai-landscape-aiops-self-healing-and-whats-actually-production-ready-285c) · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7452544753876762625/)
 
 ---
 
