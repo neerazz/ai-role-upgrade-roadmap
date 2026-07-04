@@ -1,0 +1,51 @@
+Create a professional infographic with these specifications:
+
+LAYOUT:
+- Dark navy background (#1a1a2e)
+- Bold white sans-serif title at top: "The Application Engineer's AI Integration Landscape"
+- Subtitle in light gray: "5 Domains × 3 Maturity Levels"
+
+CONTENT — 5 domain blocks arranged in a clean 2-3 grid (2 top, 3 bottom):
+
+Block 1 — "API Design for AI"
+  - Icon: two-way arrow connecting a user silhouette and a robot silhouette
+  - Production-ready: MCP protocol, function calling APIs
+  - Emerging: OpenAI MCP servers, Klavis workflow patterns
+  - Maturity bar: 55% filled, yellow
+
+Block 2 — "AI Middleware & Gateways"
+  - Icon: router/hub with radiating connections
+  - Production-ready: Kong, LiteLLM, Helicone
+  - Emerging: Portkey, OpenRouter, semantic caching
+  - Maturity bar: 65% filled, yellow-green
+  - Small taxonomy: "Gateway vs Proxy vs Direct"
+
+Block 3 — "Performance Engineering"
+  - Icon: stopwatch with lightning bolt
+  - Production-ready: Streaming (SSE), OpenAI 7 principles
+  - Emerging: vCache semantic caching, Vercel AI SDK
+  - Maturity bar: 60% filled, yellow-green
+
+Block 4 — "Legacy Migration"
+  - Icon: tree growing through/around a building (strangler fig visual)
+  - Production-ready: Strangler fig pattern, feature flags (LaunchDarkly, FeatBit)
+  - Emerging: Shadow mode, canary rollouts, AI sidecar
+  - Maturity bar: 50% filled, yellow
+
+Block 5 — "Observability for AI"
+  - Icon: magnifying glass over a trace/waterfall diagram
+  - Production-ready: Langfuse (OSS), LangSmith, Helicone
+  - Emerging: Arize Phoenix, OTel GenAI conventions
+  - Maturity bar: 70% filled, green
+
+BOTTOM SECTION — Flow arrow labeled "Integration Path":
+  "Set up observability" → "Optimize latency" → "Add middleware (if needed)" → "Migrate with strangler fig" → "Design for agents"
+  Each step in a rounded pill with teal (#4ecdc4) fill.
+
+LEGEND: Green = "Production-Ready" | Yellow = "Emerging" | Red = "Experimental"
+Tag: "18 Resources | 5 Domains | Integration-First"
+
+STYLE: Clean, minimal, dark-mode aesthetic. Rounded corners on domain blocks.
+Subtle gradient borders (#4a4a8a to #2a2a5e). Bold sans-serif (Inter or similar).
+No stock photos. No gradients on backgrounds.
+Footer: "Part 6 of the AI Role Upgrade Roadmap Series"

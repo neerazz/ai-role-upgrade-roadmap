@@ -1,0 +1,13 @@
+Create a dark navy (#1a1a2e) infographic titled "The Software Developer's AI Landscape" with subtitle "5 Domains × 3 Maturity Levels."
+
+Layout: 5 domain blocks in a 3-top, 2-bottom grid. Each block has an icon, production-ready tools, emerging tools, and a colored maturity bar.
+
+Block 1 "Agent Frameworks" — LangGraph, CrewAI, OpenAI SDK (prod) | Pydantic AI, Instructor, AutoGen (emerging) | 65% bar, green-yellow | Callout: "When to use what"
+Block 2 "RAG Pipelines" — Pinecone, Weaviate, LlamaIndex (prod) | Chroma, Qdrant, hybrid (emerging) | 70% bar, green | Callout: "Chunking matters"
+Block 3 "AI-Native Architecture" — Vercel AI SDK, function calling (prod) | MCP, dual-interface APIs (emerging) | 45% bar, yellow-orange | Callout: "Streaming-first"
+Block 4 "Evaluation & Testing" — Promptfoo, Braintrust (prod) | RAGAS, DeepEval (emerging) | 50% bar, yellow | Callout: "Most skipped, most regretted"
+Block 5 "AI Coding Assistants" — Cursor, Copilot, Claude Code (prod) | Aider, Continue.dev (emerging) | 75% bar, green | Callout: "Deep integration > tool choice"
+
+Legend: Green = Production-Ready | Yellow = Emerging | Red = Experimental
+Footer: "20 Resources | 5 Domains | Part 4 of the AI Role Upgrade Roadmap Series"
+Style: Clean dark-mode, rounded corners, gradient borders (#4a4a8a to #2a2a5e), bold sans-serif, no photos.

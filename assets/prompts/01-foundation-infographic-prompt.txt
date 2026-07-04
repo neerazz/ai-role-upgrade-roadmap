@@ -1,0 +1,27 @@
+Create a dark navy (#1a1a2e) infographic titled "AI Foundation Landscape for Engineers."
+
+Layout: Four vertical columns, one per domain — Prompt Engineering, LLM Capabilities & Limitations, AI-Assisted Tooling, Agent Architecture. Each column flows from bottom (Beginner) to top (Advanced) with a clear progression arrow.
+
+Beginner tier (bottom): Light blue (#4ecdc4) blocks containing:
+- Prompt Eng column: Anthropic Guide (A), DeepLearning.AI Course (A), OpenAI Guide (B)
+- LLM column: Karpathy Talk (A)
+- Tooling column: Copilot Docs (B), Cursor Quickstart (B)
+- Agents column: MCP Docs (B)
+
+Intermediate tier (middle): Teal (#45b7aa) blocks containing:
+- Prompt Eng column: Anthropic Interactive Tutorial (A)
+- LLM column: Chip Huyen AI Engineering (A), GPT-5 Prompting Guide (B)
+- Tooling column: Claude Code Docs (B)
+- Agents column: LangGraph Docs (A), Agentic AI Course (A), OpenAI Agents SDK (B), MCP Spec (B)
+
+Advanced tier (top): Purple (#7c3aed) blocks containing:
+- Prompt Eng column: Lilian Weng Prompt Eng (B)
+- LLM column: Stanford HAI Index (B), MMLU-Redux (C)
+- Tooling column: ACM Copilot Study (B)
+- Agents column: Lilian Weng Agents (B)
+
+Grade indicators: Gold star for A, Silver for B, Bronze for C.
+Bold sans-serif typography (Inter or similar).
+Subtle grid lines connecting related resources across domains.
+Bottom banner: "18 Resources | 4 Domains | Beginner → Advanced"
+No stock photos. No gradients. Clean, technical aesthetic.

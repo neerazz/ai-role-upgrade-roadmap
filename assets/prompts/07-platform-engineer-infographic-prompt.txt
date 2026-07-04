@@ -1,0 +1,61 @@
+Create a professional infographic with these specifications:
+
+LAYOUT:
+- Dark navy background (#1a1a2e)
+- Bold white sans-serif title at top: "The Platform Engineer's AI Landscape"
+- Subtitle in light gray: "6 Domains × Infrastructure Reality"
+
+CONTENT — 6 domain blocks arranged in a 3×2 grid:
+
+Block 1 — "Model Serving"
+  - Icon: server with lightning bolt
+  - Production-ready: vLLM, NVIDIA Triton
+  - Emerging: BentoML, SGLang
+  - Sunset: HF TGI (maintenance mode)
+  - Maturity bar: 70% filled, green
+
+Block 2 — "GPU / Inference Infrastructure"
+  - Icon: GPU chip with dollar sign
+  - Production-ready: AWS/GCP/Azure GPU, Modal
+  - Emerging: Together AI, Replicate, Anyscale
+  - Key insight: "Spot saves 60-90% but needs orchestration"
+  - Maturity bar: 65% filled, green
+
+Block 3 — "Vector Databases"
+  - Icon: geometric vectors connecting points
+  - Default: pgvector (< 50M vectors, 75% cost savings)
+  - Scale-out: Pinecone, Weaviate, Qdrant, Zilliz
+  - Decision: "Start Postgres, migrate when data demands it"
+  - Maturity bar: 75% filled, green
+
+Block 4 — "Feature Stores"
+  - Icon: data pipeline with feature flag
+  - Production-ready: Tecton, Databricks Unity Catalog
+  - Getting started: Feast (open-source)
+  - Migration path: Feast → Tecton or Databricks
+  - Maturity bar: 60% filled, yellow-green
+
+Block 5 — "Developer Experience"
+  - Icon: golden path arrow through portal
+  - Production-ready: Backstage + golden paths
+  - Emerging: Humanitec v2, Port
+  - Goal: "Start an AI project" = self-service
+  - Maturity bar: 50% filled, yellow
+
+Block 6 — "Cost Management"
+  - Icon: shield with dollar and chart
+  - Production-ready: Infracost, Kubecost
+  - Framework: FinOps for AI (98% adoption)
+  - Warning: "GPU cost trap — build visibility into deploy path"
+  - Maturity bar: 55% filled, yellow
+
+BOTTOM SECTION:
+  - Left: Three-color maturity scale — Green = "Production-Ready" | Yellow = "Emerging" | Red = "Experimental"
+  - Right: Decision flow — "pgvector → Purpose-Built Vector DB → Scale-Out" with arrow
+  - Tag: "What's Real vs What's Hype" with dividing line icon
+
+STYLE:
+  - Clean, minimal, dark-mode aesthetic. Rounded corners on domain blocks.
+  - Subtle gradient borders (#4a4a8a to #2a2a5e). Typography and shapes only.
+  - No stock photos, no clip art, no gradients on backgrounds.
+  - Footer: "Part 7 of the AI Role Upgrade Roadmap Series"

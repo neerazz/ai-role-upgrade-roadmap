@@ -1,0 +1,39 @@
+INFOGRAPHIC PROMPT (Gemini / DALL-E):
+
+Title: "The AI Role Upgrade Roadmap"
+Subtitle: "9 Disciplines. 9 Different Maps. One Foundation."
+
+Style: Dark navy background (#1a1a2e). Clean, bold sans-serif typography
+(Inter or Satoshi). Flat geometric design. No gradients, no 3D effects.
+Inspired by BKP-style data visualization.
+
+Layout:
+- CENTER: A hexagonal "Foundation" node labeled "AI Foundation: Shared
+  Vocabulary" in white text on a slightly lighter navy (#2a2a4e).
+- RADIATING OUTWARD: 9 branches extending from the center to role nodes
+  arranged in a circle. Each branch is a thin line (#4a4a6e).
+- ROLE NODES: Each is a rounded rectangle with:
+  - Role name in bold white
+  - 2-3 key domain keywords in smaller gray text (#8a8a9e)
+  - A MATURITY INDICATOR: colored dot — green (production-ready tooling),
+    amber (emerging), red (early/fragmented)
+- ROLE NODES and their maturity:
+  1. DevOps / SRE — AIOps, Self-Healing — GREEN
+  2. Security — Adversarial ML, Governance — AMBER
+  3. Developer — Agents, RAG, AI-Native — GREEN
+  4. Product Engineer — Evals, Trust/Safety — AMBER
+  5. Application Engineer — API Design, Middleware — AMBER
+  6. Platform Engineer — Model Serving, GPU Infra — GREEN
+  7. Data Engineer — Feature Stores, Vector DBs — GREEN
+  8. QA / SDET — Eval Frameworks, Non-Det Testing — RED
+  9. Engineering Leaders — Org Models, ROI — AMBER
+
+- BOTTOM: Legend explaining maturity dots.
+  Green = Production-grade tooling exists.
+  Amber = Tooling emerging, patterns forming.
+  Red = Early stage, roll your own.
+
+- BOTTOM RIGHT: "Series by Neeraj Singh" in small text.
+
+Dimensions: 1200x800px. No watermarks. No stock photo elements.
+No clip art. No emoji. Professional, dense, informational.

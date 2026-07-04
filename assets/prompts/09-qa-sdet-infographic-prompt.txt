@@ -1,0 +1,23 @@
+Create a dark navy (#1a1a2e) infographic titled "The QA/SDET's AI Testing Landscape" with subtitle "5 Domains × Test Pyramid Extended for AI."
+
+Layout: A test pyramid structure with traditional testing at the base and AI testing domains layered above, showing how AI testing extends the classic pyramid.
+
+Base layer (traditional): Unit Tests → Integration Tests → E2E Tests (standard pyramid, muted colors)
+
+Extended AI layers above the pyramid, 5 domain blocks arranged in an arc:
+
+Block 1 "AI Test Generation" — Qodo, Testim, Mabl (prod) | Katalon AI (emerging) | 60% maturity bar, yellow-green | Callout: "60-70% useful out of box"
+
+Block 2 "Non-Deterministic Testing" — Cosine similarity, BLEU/ROUGE, distribution testing (prod) | LLM-as-judge, semantic assertions (emerging) | 40% bar, yellow-orange | Callout: "assertEqual is dead"
+
+Block 3 "LLM Evaluation Frameworks" — Promptfoo, Braintrust (prod) | RAGAS, DeepEval, TruLens (emerging) | 55% bar, yellow | Callout: "RAGAS for RAG, DeepEval for everything else"
+
+Block 4 "Prompt Regression" — Promptfoo CI, Git versioning (prod) | SemVer for prompts, prompt diff tooling (emerging) | 35% bar, orange | Callout: "Minor change, 15% breakage"
+
+Block 5 "Visual AI Testing" — Applitools, Percy (prod) | Chromatic, AI-aware baselines (emerging) | 65% bar, green-yellow | Callout: "Perceptual > pixel"
+
+Central insight callout: "Testing AI ≠ Testing with AI — both matter, different skills"
+
+Legend: Green = Production-Ready | Yellow = Emerging | Orange = Experimental
+Footer: "18 Resources | 5 Domains | Part 9 of the AI Role Upgrade Roadmap Series"
+Style: Clean dark-mode, rounded corners, gradient borders (#4a4a8a to #2a2a5e), bold sans-serif, no photos. Test pyramid visual metaphor.

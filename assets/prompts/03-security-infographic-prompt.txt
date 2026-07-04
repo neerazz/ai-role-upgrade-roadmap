@@ -1,0 +1,30 @@
+Create a dark navy (#1a1a2e) infographic titled "The Security Engineer's AI Landscape" with these specifications:
+
+Layout: 5 horizontal domain blocks arranged vertically, with a left-side progression arrow labeled "Assess → Defend → Govern → Harden → Monitor"
+
+Domain blocks (each with a security-themed icon):
+1. AI-POWERED THREAT DETECTION (shield icon) — tag: "Production-Ready"
+   Tools: CrowdStrike Charlotte AI, Palo Alto XSIAM, Microsoft Security Copilot, SentinelOne Purple AI
+   Highlight stat: "98% MTTR reduction"
+
+2. ADVERSARIAL ML & RED TEAMING (crosshair icon) — tag: "Emerging"
+   Tools: MITRE ATLAS, NVIDIA garak, Microsoft PyRIT, OWASP LLM Top 10
+   Highlight stat: "150+ orgs contributing to ATLAS"
+
+3. LLM APPLICATION SECURITY (lock icon) — tag: "Critical Gap"
+   Tools: Google SAIF, MCP Security Layers, Prompt Injection Defenses
+   Highlight stat: "Prompt injection → RCE demonstrated"
+
+4. AI GOVERNANCE & COMPLIANCE (scale icon) — tag: "Mandatory"
+   Frameworks: NIST AI RMF, ISO 42001, EU AI Act
+   Highlight stat: "240+ orgs adopting NIST AI RMF"
+
+5. AI SUPPLY CHAIN SECURITY (chain-link icon) — tag: "Underinvested"
+   Tools: OpenSSF Model Signing, Sigstore for ML, HF + VirusTotal
+   Highlight stat: "96% false-positive reduction (JFrog+HF)"
+
+Bottom bar: "START HERE →" pointing to OWASP LLM Top 10 + garak
+Right sidebar: "Hype vs Real" meter showing Detection (high real), Governance (medium), Supply Chain (low adoption)
+
+Color scheme: Dark navy background, electric blue (#4fc3f7) accents, security red (#ff5252) for threat indicators, green (#69f0ae) for defense indicators
+Typography: Bold sans-serif (Inter or Montserrat), white primary text, muted gray secondary text

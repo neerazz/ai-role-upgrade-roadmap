@@ -1,0 +1,57 @@
+Create a professional infographic with these specifications:
+
+LAYOUT:
+- Dark navy background (#1a1a2e)
+- Bold white sans-serif title at top: "Engineering Leaders: The AI Team Upgrade Landscape"
+- Subtitle in light gray: "5 Domains × Organizational Impact"
+
+CONTENT — 5 domain blocks arranged in a pyramid layout (2 top, 2 middle, 1 bottom center):
+
+Block 1 (top-left) — "AI Readiness Assessment"
+  - Icon: radar chart with checkmarks
+  - Key stat: "Only 13% are Pacesetters" (Cisco)
+  - Assessment areas: Strategy, Talent, Data, Governance, Culture
+  - Maturity bar: 55% filled, yellow
+  - Impact indicator: "Foundation — do this first"
+
+Block 2 (top-right) — "Learning Program Design"
+  - Icon: ascending steps with lightbulb
+  - Key stat: "40-80 hours to productive" (not 1,000)
+  - Resources: Google Grow, O'Reilly AI Academy, MS Skills Navigator
+  - Maturity bar: 60% filled, yellow-green
+  - Impact indicator: "Opt-in > Mandatory"
+
+Block 3 (middle-left) — "Org Models for AI"
+  - Icon: org chart with AI nodes
+  - Three models: CoE → Embedded → Hybrid
+  - Key insight: "Start embedded, add CoE at scale"
+  - References: HBR, KPMG, ThoughtWorks Radar
+  - Maturity bar: 50% filled, yellow
+  - Impact indicator: "Structure follows maturity"
+
+Block 4 (middle-right) — "ROI Measurement"
+  - Icon: chart trending up with dollar sign
+  - Key stat: "Only 5% at measurable scale" (BCG)
+  - Frameworks: Cost reduction | Revenue impact | Velocity
+  - Key insight: "Decisions improved > Time saved"
+  - Maturity bar: 40% filled, orange
+  - Impact indicator: "Most underinvested"
+
+Block 5 (bottom-center) — "Hiring for AI Skills"
+  - Icon: talent badge with AI chip
+  - Key stat: "18.7% salary premium, 114-day time-to-fill"
+  - Strategy: "$10K-$25K to upskill vs $100K+ to hire"
+  - Key insight: "Best AI engineers don't have AI in their title"
+  - Maturity bar: 45% filled, orange
+  - Impact indicator: "Build before you buy"
+
+BOTTOM SECTION:
+  - Left: Three-color maturity scale — Green = "Mature" | Yellow = "Emerging" | Orange = "Early"
+  - Right: Decision flow arrow: "Assess → Upskill → Organize → Measure → Hire (only then)"
+  - Tag: "The Capstone: Series Complete"
+
+STYLE:
+  - Clean, minimal, dark-mode aesthetic. Rounded corners on domain blocks.
+  - Subtle gradient borders (#4a4a8a to #2a2a5e). Typography and shapes only.
+  - No stock photos. No gradients on backgrounds. Leadership-focused professional aesthetic.
+  - Footer: "Part 10 of the AI Role Upgrade Roadmap Series | 17 Resources | 5 Domains"

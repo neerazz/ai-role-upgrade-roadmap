@@ -1,0 +1,47 @@
+Create a professional infographic with these specifications:
+
+LAYOUT:
+- Dark navy background (#1a1a2e)
+- Bold white sans-serif title at top: "The DevOps Engineer's AI Landscape"
+- Subtitle in light gray: "5 Domains × 3 Maturity Levels"
+
+CONTENT — 5 domain blocks arranged in a clean grid (2 top, 2 middle, 1 bottom center):
+
+Block 1 — "AIOps & Intelligent Monitoring"
+  - Icon: magnifying glass with signal wave
+  - Production-ready: Datadog Bits AI, Dynatrace Davis AI
+  - Emerging: InsightFinder
+  - Maturity bar: 75% filled, green
+
+Block 2 — "Self-Healing Infrastructure"
+  - Icon: circular arrow with shield
+  - Production-ready: K8s native self-healing
+  - Emerging: Shoreline.io, AI K8s operators
+  - Maturity bar: 50% filled, yellow
+
+Block 3 — "LLM-Assisted IaC"
+  - Icon: code brackets with sparkle
+  - Production-ready: Copilot for HCL/YAML
+  - Emerging: Terraform MCP, Pulumi Copilot
+  - Maturity bar: 55% filled, yellow
+
+Block 4 — "AI Agent Orchestration"
+  - Icon: connected nodes/agents
+  - Production-ready: Single-agent automation
+  - Emerging: CrewAI, LangGraph
+  - Maturity bar: 40% filled, orange
+
+Block 5 — "AI Cost Optimization & FinOps"
+  - Icon: dollar sign with down arrow
+  - Production-ready: Infracost, Kubecost
+  - Emerging: AI-powered rightsizing
+  - Maturity bar: 60% filled, yellow-green
+
+LEGEND at bottom:
+  - Three-color maturity scale: Green = "Production-Ready" | Yellow = "Emerging" | Red = "Experimental"
+  - Tag: "What's Real vs What's Hype" with a small dividing line icon
+
+STYLE:
+  - Clean, minimal, dark-mode aesthetic. Rounded corners on domain blocks.
+  - Subtle gradient borders (#4a4a8a to #2a2a5e). Typography and shapes only.
+  - Footer: "Part 2 of the AI Role Upgrade Roadmap Series"
