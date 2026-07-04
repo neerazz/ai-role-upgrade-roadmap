@@ -2,7 +2,7 @@
 
 > A landscape overview proving AI roadmaps differ by role, with links to 10 detailed guides
 
-**Read the full article:** https://neerazz.hashnode.dev/stop-learning-ai-start-upgrading-your-role
+**Read the article:** [Hashnode (canonical)](https://neerazz.hashnode.dev/stop-learning-ai-start-upgrading-your-role-a-guide-for-every-software-discipline) · [dev.to](https://dev.to/neerazz/stop-learning-ai-start-upgrading-your-role-a-guide-for-every-software-discipline-4pkm) · [Medium](https://neerazz.medium.com/stop-learning-ai-start-upgrading-your-role-b8e87fd48061)
 
 ---
 

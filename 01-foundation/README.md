@@ -2,7 +2,7 @@
 
 > I surveyed 50+ resources so you don't have to. Here are the 18 that matter.
 
-**Read the full article:** https://neerazz.hashnode.dev/the-ai-foundation-every-engineer-needs-and-what-to-skip
+**Read the article:** [Hashnode (canonical)](https://neerazz.hashnode.dev/the-ai-foundation-every-engineer-needs-and-what-to-skip) · [dev.to](https://dev.to/neerazz/the-ai-foundation-every-engineer-needs-and-what-to-skip-3njl) · [Medium](https://neerazz.medium.com/the-ai-foundation-every-engineer-needs-and-what-to-skip-8c70be966f25)
 
 ---
 
