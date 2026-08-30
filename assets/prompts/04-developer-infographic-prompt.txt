@@ -1,0 +1,48 @@
+Create a professional infographic with these specifications:
+
+LAYOUT:
+- Dark navy background (#1a1a2e)
+- Bold white sans-serif title at top: "The Software Developer's AI Landscape"
+- Subtitle in light gray: "5 Domains × 3 Maturity Levels"
+
+CONTENT — 5 domain blocks arranged in a clean grid (2 top, 2 middle, 1 bottom center):
+
+Block 1 — "AI Coding Agents"
+  - Icon: terminal cursor with brackets
+  - Production-ready: Copilot, Cursor, Claude Code
+  - Emerging: Cloud / background agents
+  - Maturity bar: 75% filled, green
+
+Block 2 — "Production RAG"
+  - Icon: stacked documents with search
+  - Production-ready: Hybrid search + rerank
+  - Emerging: Contextual / agentic RAG
+  - Maturity bar: 70% filled, green
+
+Block 3 — "Tool Use & MCP"
+  - Icon: plug / USB-C port
+  - Production-ready: Function calling, MCP clients
+  - Emerging: Internal MCP servers, skills
+  - Maturity bar: 65% filled, yellow-green
+
+Block 4 — "Agent Memory"
+  - Icon: database cylinder with clock
+  - Production-ready: Thread state, checkpoints
+  - Emerging: Hindsight, Letta, graph memory
+  - Maturity bar: 45% filled, orange
+
+
+Block 5 — "Evals & AI-Native Architecture"
+  - Icon: checklist with branching graph
+  - Production-ready: Golden sets, tracing, CI evals
+  - Emerging: 12-factor agents, HITL graphs
+  - Maturity bar: 55% filled, yellow
+
+LEGEND at bottom:
+  - Three-color maturity scale: Green = "Production-Ready" | Yellow = "Emerging" | Red = "Experimental"
+  - Tag: "What's Real vs What's Hype" with a small dividing line icon
+
+STYLE:
+  - Clean, minimal, dark-mode aesthetic. Rounded corners on domain blocks.
+  - Subtle gradient borders (#4a4a8a to #2a2a5e). Typography and shapes only.
+  - Footer: "Part 4 of the AI Role Upgrade Roadmap Series"
