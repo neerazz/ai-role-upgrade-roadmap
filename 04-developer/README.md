@@ -1,10 +1,50 @@
-# Part 4: The Software Developer's AI Landscape — Curated Resources
+# Part 4: The Application Developer's AI Learning Roadmap
 
-> Companion reference shelf for [the Part 4 article](../README.md#the-complete-roadmap). The article is the map; this is the full graded path.
+> Companion reference shelf for the Part 4 article, [I Followed the Vocabulary Instead of the Work](https://neerazz.hashnode.dev/i-followed-the-vocabulary-instead-of-the-work) ([series index](../README.md#the-complete-roadmap)). The article is the story; this is the full graded path.
 
-This is the widest and noisiest territory in the series. The job is not "learn every agent framework." It is to get good at six things that show up in production: **coding agents, RAG, tool use, memory, evaluation, and the architecture patterns** you need when a probabilistic agent is a real software component — not a demo.
+This is the widest and noisiest territory in the series. Every week brings a new
+framework, acronym, or claim that the old stack is obsolete. Chasing that feed is
+not a learning plan.
+
+The job is to learn the durable mechanics behind an AI feature, then go deeper
+where you work. A backend developer needs to make model calls, retrieval, tools,
+memory, and workflows reliable. A frontend developer needs to make streaming,
+uncertainty, approval, and failure understandable to a human. A full-stack
+developer needs both, but not all at once.
+
+**Frameworks are implementation choices. They are not the curriculum.** Start
+with the failure you need to handle, then choose the smallest tool that handles
+it.
 
 Assumes you've read [Part 1: The AI Foundation](../01-foundation/README.md). Adjacent maps: [Security](../03-security/README.md) (prompt injection and tool-runtime risk) and [Data Engineering](../README.md) (the retrieval and embedding pipelines RAG sits on).
+
+## The Learning Shape
+
+### Shared foundation
+
+Every application developer should be able to:
+
+1. Call a model API and reason about tokens, context, latency, cost, and structured output.
+2. Ground an answer with retrieval and give a model bounded tools instead of unlimited access.
+3. Evaluate quality with repeatable cases rather than deciding that a demo "looks right."
+4. Trace a request across the UI, application, model, tools, and data sources.
+5. Put an explicit human gate in front of consequential writes.
+
+### Choose a path
+
+- **[04.1 Backend](04.1-backend/README.md):** provider APIs, RAG, tool execution,
+  orchestration, memory, durable workflows, evaluation, observability, security,
+  latency, and cost.
+- **[04.2 Frontend](04.2-frontend/README.md):** streaming UX, conversational state,
+  citations, uncertainty, approval flows, accessibility, cancellation, retry, and
+  recovery from partial failure.
+
+### Join the paths
+
+Ship one narrow feature end to end. It must have a real user task, a visible
+failure state, at least one rerunnable evaluation, and a trace that explains what
+happened. That project is the proof that the roadmap is working; finishing a
+framework tutorial is not.
 
 ### Grading Key
 - **Grade A (Essential):** Skip this and you'll have a real blind spot in AI-native software development.
@@ -154,8 +194,7 @@ The backend lab is [04.1](04.1-backend/README.md) — Academy modules 2 and 5 pl
 *Neeraj Singh is a Staff Security Infrastructure Engineer with 15+ years of experience at Meta, Wayfair, JPMorgan Chase, and Parafin. He writes about AI and infrastructure: what works in production, not what works in demos.*
 
 
-## Labs
-
-Hands-on examples live in [`labs/`](labs/).
+## Tracks and labs
 
 - **[04.1 Backend](04.1-backend/README.md)** — [LangChain Academy](https://github.com/langchain-ai/langchain-academy) LangGraph modules, installed from the root `pyproject.toml`, plus a dedicated [memory systems](04.1-backend/memory/README.md) track (checkpointer vs store, semantic/episodic/procedural, Hindsight/Letta/Zep).
+- **[04.2 Frontend](04.2-frontend/README.md)** — the interaction and verification path: streaming, state, citations, uncertainty, approval, accessibility, partial failure, and one end-to-end completion test.
